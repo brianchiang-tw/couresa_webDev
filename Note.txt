@@ -187,3 +187,17 @@ Attribute value: A1234
 # Officially not part of HTML5, but still used.
 
 # Rought equivalent to "Flow content" and "Phrasing contet".
+
+
+
+### Heading elements( and some new HTML5 semantic comments)
+
+## Semantic: 
+# relating to meaning in language or logic
+
+## Semantic html element:
+# Element that implies some meaning to the content
+
+# Human and/or machine can inderstand meaning of content surrounded by a semantic element better.
+
+# May help search engine ranking, i.e., SEO (Search Engine Optimization)
