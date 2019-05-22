@@ -34,3 +34,133 @@
 ## 3 Core web Technologies
 
 # HTML, CSS, Javascript
+
+
+
+### Standard Organization
+
+# W3C (HTML5, standard)
+
+# WHATWG (HTML, evolving)
+
+
+
+### Summary
+
+# History of HTML and it affects us as developers
+
+# Resources for validation
+
+# Resources for feature investigation
+
+# Browser state Resources
+
+
+
+### Anatomy of an HTML
+
+<p> demo string .... </p>
+
+Element name: p
+Opening tag: <p>
+Content: demo string...
+Closing tag: </p>
+
+
+
+<br>
+
+Line break: br
+Opening tag: <br>
+No content
+No closing tag
+
+
+
+<hr>
+
+Horizontal break: hr
+Opening tag: <hr>
+No content
+No closing tag
+
+
+
+# Attribute is a name-value pair
+<p id="A1234"></p>
+
+Attribute name: id
+Attribute value: A1234
+
+
+
+### Space
+
+# No space is allowed to exist between the opening bracket and the tag name.
+# Similarly, space is not allowed between the opening bracket and the foreword slash of the closing tag.
+
+# However, you must have at least one space between the tag itself and any of its attributes,
+# ans space is allowed everywhere else and is simply ignored.
+
+
+
+### value surrounded by quotes mark
+
+# It is best practice to always surround the value of the attribute in either single or double quotes.
+# It doesn't matter whether you use single or double quotes. 
+# They really are equivalent in HTML.
+
+
+### placeholder
+
+# We have to provide an opening tag and closing tag without any space in-between them to signify,
+# and to communicate the lack of content as surrounded by this tag.
+
+
+
+### Summary
+
+## Anatomy of an HTML tag
+
+# Opening and closing tag
+# Attributes 
+# Using double and single quotes
+# How to specify tag without any content
+
+
+
+### Basic HTML Document Structure
+
+# implemation of "L1_structureOnly.html"
+
+
+
+### Summary
+
+## The bare minimum HTML document
+
+## HTML version declaration
+
+# <html>
+# <head>
+# <meta>: meta tags communicate information to the browser.
+# <title>
+# <body>
+
+## Sequential (top to bottom) rendering
+
+
+
+### HTML Content Models
+
+## Block-level elemetns
+
+# Render to begin on a new line (by default)
+
+# May contain inline or other block-level elemetns
+
+
+
+## Inline elemetns
+
+# Render on the same line (by default)
