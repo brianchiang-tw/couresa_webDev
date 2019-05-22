@@ -201,3 +201,15 @@ Attribute value: A1234
 # Human and/or machine can inderstand meaning of content surrounded by a semantic element better.
 
 # May help search engine ranking, i.e., SEO (Search Engine Optimization)
+
+
+
+### Summary
+
+# Well chosen content of H1 element is crucial to SEO
+
+# Semantic elements allow for a more meaningful expression of the structure of our HTML page
+
+# To sum up, sematic elements do allow you for more meaningful expression of the structure
+# of your HTML code, HTML page, but they don't really give you any more functionality
+# than a regular "div" or regular "span" would without it.
