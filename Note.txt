@@ -1,0 +1,36 @@
+
+### Technologies that drive the web
+
+## HTML
+
+#   Structure
+
+
+
+## CSS
+
+#   Style
+
+
+
+## Javascript
+
+#   Behavior
+
+
+
+### Summary
+
+## HTML
+
+# Annotates content
+
+# Defines document structure
+
+
+
+## Right and wrong syntax
+
+## 3 Core web Technologies
+
+# HTML, CSS, Javascript
