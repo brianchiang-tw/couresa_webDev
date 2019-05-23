@@ -213,3 +213,13 @@ Attribute value: A1234
 # To sum up, sematic elements do allow you for more meaningful expression of the structure
 # of your HTML code, HTML page, but they don't really give you any more functionality
 # than a regular "div" or regular "span" would without it.
+
+
+
+### Summary of list
+
+# Lists provide a natural and commonly used grouping of content
+
+# Very often, lists are used for structuring navigation portions of the web page
+
+
