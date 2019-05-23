@@ -223,3 +223,33 @@ Attribute value: A1234
 # Very often, lists are used for structuring navigation portions of the web page
 
 
+
+### HTML Character Entity Reference
+
+----------------------------------------------
+Instead of          Use
+----------------------------------------------
+<                   &lt;
+----------------------------------------------
+>                   &gt;
+----------------------------------------------
+&                   &amp;
+----------------------------------------------
+"                   &quot;
+----------------------------------------------
+©                   &copy;
+----------------------------------------------
+
+
+
+### Summary if HTML character entity Reference
+
+# Help avoid rendering issues
+
+# Safeguard against more limited character encoding
+
+# Provide characters not available on a keyboard
+
+
+
+### Links
