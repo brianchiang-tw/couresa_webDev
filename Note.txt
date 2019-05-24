@@ -253,3 +253,50 @@ Instead of          Use
 
 
 ### Links
+
+
+
+### The a element
+
+# categories
+
+#   Flow content
+
+#   When the element only contains phrasing content: phrasing content
+
+#   Interactive content
+
+#  a tag in the HTML5 is both an inline element and a block level element at the same time
+
+
+
+### Summary of creating links
+
+# Internal linking to other pages in the site
+
+# External linking to other web sites
+
+# Linking to sections of a document
+
+
+
+### Pratice
+
+Q:
+The following code rendering in the middle section of the page allows someone to directly link 
+to that middle section of the page, not just the beginning of the page:
+
+<div id="superInterestingContentHere">Bla Bla</div>
+
+A:
+True
+
+
+
+### Summary of Image
+
+# Image can enhance your site
+
+# Remember to specify width adn height attrivutes whenever possible
+
+
