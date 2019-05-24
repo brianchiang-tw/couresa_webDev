@@ -300,3 +300,54 @@ True
 # Remember to specify width adn height attrivutes whenever possible
 
 
+
+### Summary
+
+# CSS is an incredibly powerful technology
+
+# User experience of content matters
+
+
+
+### Anatomy of a CSS rules
+
+p {
+    color: blue;
+}
+
+Selector: p
+
+Delaration: "color: blue;"
+
+Property: "color:"
+
+Value: "blue"
+
+
+
+# Zero or more declarations are allowed
+
+p {
+    color: blue;
+    font-size: 20px;
+    width: 200px;
+}
+
+
+
+# the collection of these CSS ruels is what's called a style sheet
+
+The following structure is a stylesheet
+
+p {
+    color: blue;
+    font-size: 20px;
+    width: 200px;
+}
+
+
+h1 {
+    color: green;
+    font-size: 36px;
+    text-align: center;
+}
