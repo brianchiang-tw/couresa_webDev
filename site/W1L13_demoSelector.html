@@ -1,0 +1,83 @@
+<!-- Specify the document type as HTML -->
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="u8f-8">
+    <title> Simple Selectors </title>
+</head>
+
+
+<style>
+/* All h2 elements */
+h2 {
+    color: greenyellow;
+    text-align: center;
+}
+
+
+
+/* All with class = "highlight" */
+.highlight {
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    background-color: lightcoral;
+    opacity: 0.6;
+}
+
+
+
+/* Element with id = "mainPoint" */
+#mainPoint {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: orangered;
+    opacity: 0.7;
+}
+
+
+
+/* all p AND h1 element */
+p, h1 {
+    color: LightSkyBlue;
+    text-align: center;
+}
+
+
+</style>
+</head>
+
+
+<body>
+
+    <h1> 
+        Heading_levle_#1 : Simple Selectors (h1)
+    </h1>
+
+    <h2>
+        Heading_levle_#2 : Subheading 1 (h2)
+    </h2>
+
+    <p class="highlight"> Paragraph with className="highlight": This is the first highlight paragraph </p>
+
+    <p class="highlight"> Paragraph with className="highlight": This is the second highlight paragraph </p>
+
+    <h2>
+        Heading_levle_#2 : Subheading 2 (h2)
+    </h2>
+
+    <p>
+        Paragraph with "&lt;p&gt;" What doesn't kill you makes you stronger
+    </p>
+
+    <div>
+        This is the main point of the entire article. So, attribute.
+    </div>
+
+    <span id="mainPoint">  Span inline element with id="mainPoint"</span>
+
+
+</body>
+
+</html>

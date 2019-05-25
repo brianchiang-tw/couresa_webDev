@@ -351,3 +351,88 @@ h1 {
     font-size: 36px;
     text-align: center;
 }
+
+
+### Elements, Class, and ID Selectors
+
+## class Selector
+
+.blue {
+    color: blue;
+}
+
+
+
+Example:
+
+...
+<p class="blue">...</p>
+<p>...</p>
+<div class="blue">...</div>
+...
+
+
+### name Selector
+
+#name {
+    color: blue;
+}
+
+
+
+Example:
+
+...
+<p>...</p>
+<div id="name">...</div>
+...
+
+
+
+### Grouping Selector
+
+# This put effect on <div> element and class="blue" element
+
+div, blue {
+    color: blue;
+}
+
+
+
+Example:
+
+...
+<p class="blue">...</p>
+<p>...</p>
+<div>...</div>
+...
+
+
+
+### Summary
+
+## Syntax simple CCS Selectors
+
+# Element
+
+# Class (define with.)
+
+# id (define with #)
+
+
+
+### Summary
+
+## Combining Selectors
+
+# Element with class selector (selector.class)
+
+# Child (direct) selector ( selector > selector )
+
+# Descendent selector ( selector selector )
+
+## Didn't cover
+
+# Adjacent sibling selector (selector + selector)
+
+# General sibling selector (selector ~ selector)
