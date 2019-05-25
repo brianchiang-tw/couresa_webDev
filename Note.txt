@@ -436,3 +436,31 @@ Example:
 # Adjacent sibling selector (selector + selector)
 
 # General sibling selector (selector ~ selector)
+
+
+
+### Pseudo-class selector
+
+## Many pseudo-class selectors exist
+
+## We cover:
+
+#   :link
+
+#   :visited
+
+#   :hover 
+
+#   :active 
+
+#   :nth-child(...)
+
+
+
+### Summary of pseudi-class selectors
+
+## Pseudo-class selectors are very powerful.
+
+## Make sure your selector is still readable
+
+# Simple/Readable -> Complicated/Tricky
