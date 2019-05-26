@@ -505,3 +505,15 @@ Example:
 
 
 
+### Specificity
+
+## Most specific selector combinartion wins
+
+
+
+### Summary of conflict resolution
+
+# Cascade: origin, merge; Inhertance, & Specificity
+
+# Provide precise control over targeting content while allowing 
+maximum re-use of styles across your website
