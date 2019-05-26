@@ -464,3 +464,44 @@ Example:
 ## Make sure your selector is still readable
 
 # Simple/Readable -> Complicated/Tricky
+
+
+
+### Summary of Style Placement
+
+# Placeing styles inline is great for quick testing
+
+# Real sites almost always use external styles
+
+# Head styles are usually there to override external ones
+
+
+
+### Some Concepts
+
+# Orgin 
+
+# Merge 
+
+# Inheritance 
+
+# Specificity
+
+
+
+### Origin Precedence (when in conflict)
+
+## Simple rule: Last declaration wins
+
+# Remember, HTML is processed sequentially, from top to bottom.
+
+# For precedence, think of external CSS as declared at the spot where it's linked to.
+
+
+
+### Origin Precedence (when no conflict)
+
+## Even simpler rule: Declarations Merge
+
+
+
